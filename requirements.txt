@@ -1,0 +1,10 @@
+pikepdf
+reportlab
+pillow
+pytesseract
+pdf2image
+pdfplumber
+python-docx
+openpyxl
+fpdf
+PyMuPDF

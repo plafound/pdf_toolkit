@@ -1,0 +1,26 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+
+# === Virtual Environment ===
+venv/
+env/
+.venv/
+
+# === Temporary / cache files ===
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# === Editor folders ===
+.vscode/
+.idea/
+
+# === Output ===
+workspace/**/output/
