@@ -42,6 +42,11 @@ Pastikan kamu menginstal:
 
 sudo apt install tesseract-ocr tesseract-ocr-eng tesseract-ocr-ind pandoc texlive-latex-base
 ````
+### 3️⃣ Buat Folder Workspace
+````bash
+mkdir workspace
+mkdir -p workspace/compress/{input,output} workspace/convert/{input,output} workspace/merge/{input,output} workspace/rotate/{input,output} workspace/split/{input,output} workspace/watermark/{input,output,template}
+````
 
 ▶️ Cara Menjalankan
 ````bash
